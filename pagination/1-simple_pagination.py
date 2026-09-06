@@ -54,4 +54,3 @@ class Server:
             return []
 
         return dataset[start_index:end_index]
-    
