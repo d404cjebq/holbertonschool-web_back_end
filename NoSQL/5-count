@@ -1,1 +1,2 @@
-db.school.countDocuments();
+// co
+print(db.school.count())
